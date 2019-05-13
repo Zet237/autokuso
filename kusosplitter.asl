@@ -3,10 +3,6 @@ state("kuso") {
     int levelID : 0x6C2D90; 
 }
 
-startup{
-	refreshRate = 120; //look don't judge me
-}
-
 gameTime {
     return TimeSpan.FromSeconds(current.frames / 60.0);
 }
