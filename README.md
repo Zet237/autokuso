@@ -9,7 +9,7 @@
 * Splitting during a level progression
 * Ending when the run is beaten and stats are shown (tested in speedrun mode only but should theoretically work on all game modes)
 
-Install by setting "kuso" as the game in your splits, then click on "Activate" for the autosplitter.
+Install by setting "kuso" as the game in your splits, then click on "Activate" for the autosplitter. LiveSplit will handle installation by itself, no additional downloads or quirky "layout" settings required.
 
 Be sure to set your Livesplit to compare to Game Time as opposed to Real Time!
 Have fun! 
