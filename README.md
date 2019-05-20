@@ -9,7 +9,13 @@
 * Splitting during a level progression
 * Ending when the run is beaten and stats are shown (tested in speedrun mode only but should theoretically work on all game modes)
 
-Install by setting "kuso" as the game in your splits, then click on "Activate" for the autosplitter. LiveSplit will handle installation by itself, no additional downloads or quirky "layout" settings required.
+### What it won't do:
+
+* Starting a new run after you have finished a run. This is unfortunately impossible for asl apparently, and you will always need to manually clear splits after finishing a run, but usually you want to keep the finished splits for analysis and sharing screenshots and whatnot anyway.
+
+### Installation:
+
+Simply set "kuso" as the game name in your splits, then click on "Activate" for the autosplitter. LiveSplit will handle installation by itself, no additional downloads required.
 
 Be sure to set your Livesplit to compare to Game Time as opposed to Real Time!
 Have fun! 
