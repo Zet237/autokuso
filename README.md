@@ -1,6 +1,6 @@
 # autokuso
 
-### This splitter is for the game kuso by Fred Woods. It will basically do everything you want it to do which is:
+### This splitter is for the game kuso by Fred Wood. It will basically do everything you want it to do which is:
 
 * Sync IGT with the game's framecounter
 * Starts upon starting any game mode (tested with speedrun kuso, LOVE and LOVE+kuso but should theoretically work on any mode)
