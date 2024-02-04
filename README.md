@@ -1,3 +1,7 @@
+# This autosplitter is discontinued!
+
+Please go to the way better version by majoneesi instead! Find it here: https://github.com/neesi/autosplitters
+
 # autokuso
 
 ### This splitter is for the game kuso by Fred Wood. It will basically do everything you want it to do which is:
